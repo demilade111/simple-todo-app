@@ -1,2 +1,2 @@
 # simple-todo-app
-sime react todo-app
+simple react todo-app
